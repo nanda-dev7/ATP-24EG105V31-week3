@@ -82,7 +82,7 @@ Create a **Product REST API** with the following features.
 
 # Example Project Structure
 
-```
+```   
 week3
  ├── config
  │   └── database.js
