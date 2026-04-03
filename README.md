@@ -1,6 +1,6 @@
 # Week 3 – Express Middleware & MongoDB Integration    
 
-## Topics Covered.    
+## Topics Covered.                       
 
 
 ### 5-Mar-2026     
